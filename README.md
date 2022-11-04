@@ -5,4 +5,5 @@ Tecnologias utilizadas:
 
 - React Native
 - Native Base
+- Expo
 - TypeScript
